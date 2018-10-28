@@ -41,6 +41,11 @@ h1 {
 	display: flex; 
 } 
 
+.upper_body:hover {
+	width: 400px;
+	transition: 1s ;
+}
+
 .left_arm, .right_arm { 
 	width: 40px; 
 	height: 125px;
